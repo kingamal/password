@@ -11,7 +11,7 @@ if len(password) != 4:
     print('Hasło niewłaściwe!')
     exit()
 
-letters = 'abcdefghijklmnopqrstuvwxyz'
+letters = 'abcdefghijklmnopqrstuvwxyz1234567890'
 try_password = '' #tu bedziemy wpisywac losowane litery
 
 while True:
